@@ -1838,7 +1838,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d52639;
+  background: #1a7a36;
 }
 .feed-link,
 .chat {
@@ -2865,6 +2865,12 @@ ul.breadcrumb li+li:last-child {
 }
 .with-love {
   color: #ff71a8;
+}
+body {
+  background: url("/images/Grassland_Scenery_by_Shi_Yuejun.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
 @-moz-keyframes heartAnimate {
   0%, 100% {
