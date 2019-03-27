@@ -1848,7 +1848,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2fff8c;
+  background: #d63c0b;
 }
 .feed-link,
 .chat {
@@ -2908,8 +2908,11 @@ ul.breadcrumb li+li:last-child {
 .with-love {
   color: #ff71a8;
 }
-.header {
-  background: url("https://cdn.yangbingdong.com/img/header/header_background.jpg");
+body {
+  background: url("/images/Grassland_Scenery_by_Shi_Yuejun.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
 .site-meta {
   background: #0684bd;
